@@ -10,3 +10,5 @@ The database contains a list of coffee shops in the UK along with many attribute
 Postman was used to test the API to avoid the creation of WTForms.
 List of requests, description, and methods are published below:
 https://documenter.getpostman.com/view/31189988/2sAYBYfAaP
+
+Notice: For public use, hide the API key in the enviroment to protect the data from being deleted by a malicious actor. 
